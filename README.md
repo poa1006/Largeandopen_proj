@@ -8,7 +8,9 @@
 	政府資料公開平台
 
 http://data.gov.tw/opendata/Details?sno=345000000G-00014
+
 http://data.gov.tw/opendata/Details?sno=355000000I-00005
+
 
 (三)動機 : 
 
@@ -19,11 +21,14 @@ http://data.gov.tw/opendata/Details?sno=355000000I-00005
 
 (四)目標 :
 	結合Google map與這兩項open data，
+
 1.有機農場週遭河川狀況
 	標示出有機農場的週遭河川水質狀況，包括河川污染指標（River Pollution Index, RPI）及主要污染物監測值等資料。
 
+
 2.不同顏色的標記
 	根據使用者對於不同污染物的注重程度不同或以RPI區分，以不同顏色標示出河川的汙染嚴重程度。
+
 
 借此可以提供給未來的消費者，做為是否購買該有機農場產品時的參考依據。
 
