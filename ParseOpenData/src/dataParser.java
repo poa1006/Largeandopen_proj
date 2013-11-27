@@ -108,6 +108,9 @@ public class dataParser {
 	}
 	
 	//read the file and convert it to string
+	// read file data into buffer 
+	// turn buffer into fileDta 
+	// return fileData
 	public static String readFileToString(String filePath) throws IOException{
 		StringBuilder fileData = new StringBuilder(1000);
 		BufferedReader reader = new BufferedReader(new FileReader(filePath));
