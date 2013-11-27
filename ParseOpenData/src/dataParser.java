@@ -95,9 +95,7 @@ public class dataParser {
 			riverinfo.itemname = object.get("ItemEngName").toString();
 			riverinfo.itemvalue = object.get("ItemValue").toString();
 			riverinfo.itemunit =  object.get("ItemUnit").toString();
-			if(!list.contains(riverinfo)){
-				list.add(riverinfo);
-			}
+			list.add(riverinfo);
 		}
 		
 		//get tne river information
